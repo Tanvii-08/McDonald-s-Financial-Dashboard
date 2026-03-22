@@ -3,20 +3,20 @@
 An interactive Tableau dashboard designed to explore customer segmentation, shopping behavior, and corporate financial performance trends from 2002–2022.
 
 
-## 2. Purpose  
+## Purpose  
 The Tableau Insights Dashboard provides a comprehensive view of customer behavior in retail and e‑commerce, alongside financial performance analysis of McDonald’s. It helps analysts uncover market segments, predict customer preferences, and evaluate corporate KPIs over time.  
 
 This tool is intended for use by business analysts, marketing teams, and financial strategists to optimize decision-making and identify growth opportunities.
 
 
-## 3. Tech Stack   
+## Tech Stack   
 - 📊 **Tableau Desktop** – Main data visualization platform used for report creation  
 - 📂 **Data Connections** – CSV files and structured datasets integrated into Tableau  
 - 🧠 **Calculated Fields** – Used for KPIs, ratios, and trend analysis  
 - 📝 **Data Modeling** – Relationships established among customer, purchase, and financial tables for cross-filtering  
 - 📁 **File Format** – `.twbx` for development and `.png` for dashboard previews  
 
-## 4. Data Source  
+## Data Source  
 - *E‑Commerce Insights Document* – Customer segmentation, profiling, shopping behavior, and channel preferences  
 - *McDonald’s Financial Statements (CSV)* – Historical financial data from 2002–2022 including revenue, earnings, margins, debt, and market capitalization  
 
@@ -26,7 +26,7 @@ Data includes:
 - McDonald’s corporate financial metrics: revenue, earnings, EPS, operating margin, debt levels, and dividend yield  
 
 
-## 5. Features   
+##  Features   
 
 ### • Business Problem  
 Retailers and corporations generate massive amounts of customer and financial data, yet decision-makers often lack an intuitive way to segment customers, predict behavior, and track financial health.  
