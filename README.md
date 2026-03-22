@@ -64,4 +64,5 @@ To deliver an interactive visual tool that:
 ## 📂 File Information  
 - Development File: `Tableau_Insights.twbx`  
 - Data Files: `Tableu_insignts_Overview.docx`, `McDonalds_Financial_Statements.csv`  
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/29471167-feeb-4492-b551-53c146ec4372" />
 
